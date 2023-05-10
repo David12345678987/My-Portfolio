@@ -1,6 +1,6 @@
 
 body {margin: 0;
-background-color: rgb(9, 17, 29);}
+background-color: rgb(0, 0, 0);}
 
 .cw{
     background-color: rgb(0, 0, 0);
@@ -11,16 +11,18 @@ max-height: 70px;
 padding-right: 10px;
 border-radius: 10px;
 cursor: pointer;
-margin-right: 5px;
-margin-left: 5px;
+margin-right: 8px;
+margin-left: 8px;
+
 vertical-align: bottom;
+box-shadow: 0px 0px 5px rgb(0, 132, 255);
 }
 .cw:hover{
     transition: background-color .7s ,coler .5s ;
 
     background-color: rgb(255, 255, 255);
     color: black;
-    box-shadow: 0px 0px 10px rgb(15, 90, 160);
+    box-shadow: 0px 0px 10px rgb(0, 132, 255);
 }
 .cw:active{
     padding-left: 13px;
@@ -40,13 +42,13 @@ vertical-align: bottom;
 
 
 .bur{
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(8, 8, 8);
          display: flex;
          align-items: stretch;
          align-items:center;
          justify-content: center;
-         height: 80px;
-         box-shadow: 1px 1px 10px rgb(15, 15, 15);
+         height: 90px;
+         box-shadow: 1px 1px 10px rgb(0, 0, 0);
 }
 
 
@@ -65,10 +67,12 @@ vertical-align: bottom;
     margin-left: 60px;
     margin-right: 60px;
     border-radius: 40px;
-    box-shadow: 1px 1px 15px rgb(5, 74, 131);}
+    transition: box-shadow.5s ;
+    box-shadow: 1px 1px 10px rgb(14, 86, 194);}
 
 
 
+    
 
 
     .box-vid:hover{
@@ -113,26 +117,34 @@ background-color: rgb(22, 22, 22);
        font-weight: bold;
         }
 
+.mb:hover{
+    transition: box-shadow .5s ;
+    box-shadow: 1px 1px 15px rgb(14, 86, 194);
+}
+
+
+
+
 
 
 
 
     .bh{
-        background-color: rgb(27, 202, 188);
-         padding-top: 10px;
-         padding-bottom: 50px;
+        background-color: rgb(9, 30, 48);
+         padding-top: 30px;
+         padding-bottom: 60px;
          height: 110px;
     }
 
 
 
     .bb{
-        background-color: rgb(22, 22, 22);
+        background-color: rgb(5, 5, 5);
             
              border: none;
              width: 100%;
              height: 150px;
-             box-shadow: 1px 1px 20px rgb(0, 0, 0);
+             box-shadow: 1px 1px 15px rgb(14, 86, 194);
     }
 
     .wbox{
@@ -165,11 +177,22 @@ background-color: rgba(255, 255, 255, 0.562);
 
 
     .man-box{
-        background-color: rgb(8, 8, 8);
+        background-color: rgb(0, 2, 3);
         display:flex;
         flex-wrap: wrap;
         justify-content: center;
         margin-bottom: 120px;
-        margin-top: 80px;
-        box-shadow: 1px 1px 10px rgb(12, 86, 136); 
+        margin: 50px;
+        border-radius: 40px;
+        box-shadow: 0px 0px 5px rgb(6, 57, 122); 
+    }
+
+    .low-bur{
+        display: flex;
+                align-items: stretch;
+                align-items:center;
+                justify-content: center;
+                height: 95px;
+                box-shadow: 7px 1px 5px rgb(0, 33, 100); 
+                background-color: rgba(1, 22, 54, 0.192);
     }
