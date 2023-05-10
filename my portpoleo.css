@@ -21,7 +21,7 @@ box-shadow: 0px 0px 5px rgb(0, 132, 255);
     transition: background-color .7s ,coler .5s ;
 
     background-color: rgb(255, 255, 255);
-    color: black;
+    color: rgb(0, 0, 0);
     box-shadow: 0px 0px 10px rgb(0, 132, 255);
 }
 .cw:active{
