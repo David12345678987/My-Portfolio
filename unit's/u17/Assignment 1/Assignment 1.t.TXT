@@ -1,0 +1,37 @@
+unit 17 multimedia products
+Introduction
+This is my assignment fur unit 17 my assignment is on multimedia products. 
+What is multimedia. Multimedia is multiple medias combined, like audio, video, animations, or text, used together to produce media. I have been tasked to describe the strengths, weaknesses and features of two multimedia products and compare the differences.
+
+First Product
+My first multimedia product is a video tutorial on how to program an Arduino.
+The target audience
+The target audience are people aged 10+ because it's quite complicated for young people to do programming and electronics. Although younger people might find this useful as well. The main people who are interested, would like, electronics, programming and making things. 
+The requirements to interact
+The requirements for this product are Internet connexion and a computer to watch the video on, and to do the programming. You will also need access to an Arduino and components to use with it like senses, wires and LEDs. 
+The features of the product
+The features of this product, are video clearly showing what to do and making it easier to follow along, and audio explaining everything, so the viewer does not get lost and are able to follow the video.
+The intended effect on the audience
+The intended affect is for the audience to learn and follow along with the video. It is an educational video because the video is educating the viewer on programming and wiring electronics and problem solving.
+The strengths and weaknesses
+The strengths are that it is easy to follow along, and it can be accessed from anywhere with Internet. And it teaches programming, electronics and problem solving to people who want to learn it.
+The weaknesses are you need access to Internet and hardware like a computer, Arduino and components to use with it. As well as basic understanding of how to use a computer.
+
+Second Product
+My second multimedia product is a video advert for the PlayStation5.
+The target audience
+The target audience are people aged 10 to 35, who like gaming and they might have previously owned a PlayStation.
+The requirements to interact
+The requirements to interact with this product are Internet connection as well as a device to watched it on, like a computer, phone or tablet, the viewer might also need some knowledge on games or gaming as well to understand what it is used for.
+The features of the product
+The features of this product are audio in the form of music and there is video, displaying the product in a creative and engaging way, with cool high-quality shots of the product. There is also, text Describing some of these features of the product.
+The intended effect on the audience
+The intended effect on the viewer is to promote and advertise the product and this is done by displaying the features and use of the product, and why it should be purchased by the viewer.
+The strengths and weaknesses
+The strengths are It is entertaining as well as being visually pleasing by having good lighting, graphics and complementary colors, as well as good audio which consists of music, with a good beat that fits in with the video, which makes it fun to watch.
+the weaknesses are You need the Internet to watch it and it is irrelevant to the view if they do not play or are interested in video games.
+
+Comparison
+Comparison between the two products, of course the second one is an ad for the PS5, and the first one is an educational video on programming an Arduino. but the second video uses audio in the form of music, unlike the first video. with more entertaining and visually pleasing video than the other is more of a tutorial showing you how to program an Arduino.
+Conclusion
+I have written about a video tutorial on how to program a Arduino. as well as a video advert for the PS5. The Arduino tutorial consisted of audio and video, it told the viewer how to download the IDE, and the basics of programming the Arduino, as well as how to use it like wiring up sensors, and other accessories. The second product was an advert for the PS5, it consisted of audio video and text, and it displayed the product the PS5 in a cool and entertaining way, to try and persuade the viewer to be interested in buying the product.
