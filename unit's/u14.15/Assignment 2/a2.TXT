@@ -1,0 +1,10 @@
+Tools for computer dismantling and maintenance
+When dealing with electrical components it is necessary to use the correct tools.
+An Insulated screwdriver should be used when dealing with electrical components to prevent anything from being shorted or damaged, insulated screwdrivers should be used when installing motherboards power supplies or hard drives because they protect the components from electrical damage.
+
+A power supply tester should be used so you can check the power supply for incorrect voltages, so it does not damage the rest of the system.
+It does this by monitoring the output and checking to see if the voltages it reads of what they should be and then it will indicate whether the power supply is still working or not with the LED's or screen.
+
+A digital multimeter it's a tool to test electrical values and to diagnose circuits and components. most digital multimeters we'll measure, volts, amps and ohms.
+
+Isopropyl alcohol is used for cleaning electrical components and systems because it leaves no residue and does not damage electrical systems and it's not corrosive.

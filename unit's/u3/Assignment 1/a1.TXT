@@ -1,0 +1,8 @@
+My explanation for design choices
+I have chosen to have a separate page for contacting me, learn about me and know my qualifications. Having a separate page for each qualification makes it clearer to find them. Having buttons to all the pages at the top makes it clear to see and to navigate.
+I have chosen blue and grey colour scheme because it has a nice contrast and with white text on buttons and the top bar it is easy to see everything. The reason I have chosen to put an image in is because the page will be very bland with just plain colours so it makes it more interesting for the viewer.
+
+Design justification
+
+The design solution that I have chosen fulfils its stated purpose by being easy for viewers to see my skills, qualifications and to contact me if they are interested in employing me.
+The colour and text work well because it isn't glaring or hard to read and it's not boring or dull by having a turquoise header at the top. The clear separation to the rest of the page with the grey bar helps visually.
