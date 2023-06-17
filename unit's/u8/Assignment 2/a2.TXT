@@ -1,0 +1,15 @@
+Justification​
+
+the reason I chose the navigation and design that I laid out above is because it is simple and easy to navigate and displays every lesson out so you can choose which one you want to start on or go to if you were already part way through.​
+
+I chose to have a very basic interface with as little buttons as possible with very simple processes, so it is easier for the audience younger children to understand and use.​
+
+The reason I chose to have a home screen is so I can introduce the app to the audience and so they get an idea of what the rest of the app is before they get straight into the lessons.​
+
+​
+
+the reason I chose all these design choices is because it is it easier for the audience to use the site and understand what to do and learn the alphabet.​
+
+​
+
+Some of the constraints I had with creating the have all the changes of screen sizes across devices and creating a compatible program across all screen sizes.
