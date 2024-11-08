@@ -1,1 +1,8 @@
-I haven't done this assignment yet but I'm going to be created a website to advertise a concert in the area.
+self review of my website
+
+I made sure the website was suitable for its intended audience and purpose by adding clear navigation with a button up the top to easily get home and Google map links for locations of festivals, so it is easier for the user to get the location and time of the festival quickly creating a better user experience. I added tables in the festival page so they can see all the festivals for bands performing and when and links to any other details.
+
+I have also added media so the audience can review what the content is like and get a preview.
+
+Evaluation against initial designs
+I change the background display to a more relevant design to the band, this is better than the original background which was just a bland plain colour which wouldn't of look very inviting to the audience
